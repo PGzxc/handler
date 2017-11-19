@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">handler</string>
+    <string name="download">下载</string>
+    <string name="state">状态</string>
+    <string name="runnable">跳转Runnable</string>
+    <string name="handler">跳转Handler</string>
+</resources>
